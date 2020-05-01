@@ -1,0 +1,17 @@
+
+.container-clients{
+	display: flex;
+	background-color: 212122;
+}
+
+.container-clients .clients-item{
+	flex-grow: 1;
+	margin: 10px;
+	transition: all 0.7s;
+	opacity: 0.5;
+
+}
+
+.container-clients .clients-item:hover{
+	opacity: 1;
+}

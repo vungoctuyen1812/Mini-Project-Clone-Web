@@ -1,0 +1,17 @@
+*{
+	padding: 0px;
+	margin: 0xp;
+	font-family: sans-serif;
+}
+body{
+	background-color: black;
+}
+.grid-container{
+	display: grid;
+	padding: 20px;
+	border-radius: 50px;
+}
+
+.grid-item{
+	margin: 20px;
+}
