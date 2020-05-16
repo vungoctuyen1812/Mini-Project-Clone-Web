@@ -1,0 +1,27 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: sans-serif;
+
+}
+body{
+	background-color: black;
+	background-image: url(https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+}
+
+.grid-container{
+	width: 960px;
+	display: grid;
+	padding: 20px;
+	border-radius: 50px;
+	margin: auto;
+}
+
+.grid-item{
+	margin: 20px;
+}
+
+.grid-container .footer{
+	margin-bottom: 0px;
+	padding-bottom: 0px: 
+}
