@@ -1,14 +1,17 @@
 
 .avatar-main{
+	
 	display: flex;
 	align-items: center;
 }
 .avatar {
+
 	display: flex;
 	align-items: center;
 }
 .avatar .overlay img{
-	border: 10px solid #434344;
+
+	border: 5px solid #434344;
 	border-radius: 50%;
 	display: flex;
 	align-items: center;

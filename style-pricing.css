@@ -5,7 +5,8 @@
 }
 
 .pricing-content{
-	height: 300px;
+	margin: auto;
+	min-width: 200px;
 	width: 200px;
 	background-color: #323233;
 	padding: 20px;

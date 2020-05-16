@@ -1,8 +1,11 @@
 
+
 .funfact{
-	height: 100px;
-	width: 150px;
+	margin: 0 auto;
 	background-color: #323233;
+	min-height: 200px;
+	min-width: 150px;
+	width: 150px;
 	padding: 20px;
 	text-align: center;
 	color: #d5d5d5;
@@ -42,4 +45,8 @@
 	background-color: #323232;
 	text-transform: capitalize;
 	font-size: 25px;
+}
+
+.funfact-reponsive{
+	margin: 10px 0px 0px 0px;
 }
